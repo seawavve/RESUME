@@ -3,7 +3,7 @@
 <img src="https://github.com/seawavve/Resume/blob/main/profile.png" alt="drawing" width="300"/>
 
   조 한희  
-  취미: 차 마시기:tea:
+  취미: 차 마시기:tea:  
   MBTI: ISTP  
   Email: hanhee.sw@gmail.com  
   GitHub: [github.com/seawavve](https://github.com/seawavve)  
