@@ -2,7 +2,10 @@
   
 <img src="https://github.com/seawavve/Resume/blob/main/profile.png" alt="drawing" width="300"/>
 
-  조 한희  
+  조 한희    
+  ML Engineer 
+  
+  
   취미: 차 마시기:tea:  
   성격: 침착한, 책임감 있는
   MBTI: ISTP  
