@@ -7,7 +7,7 @@
   
   
   취미: 차 마시기:tea:  
-  성격: 침착한, 책임감 있는
+  성격: 침착한, 책임감 있는  
   MBTI: ISTP  
   Email: hanhee.sw@gmail.com  
   GitHub: [github.com/seawavve](https://github.com/seawavve)  
